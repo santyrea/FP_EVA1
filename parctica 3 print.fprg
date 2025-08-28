@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="parctica 3 print"/>
+        <attribute name="authors" value="diego"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-26 05:35:17 "/>
+        <attribute name="created" value="ZGllZ287TEFQVE9QLVZBTEw0MEE2OzIwMjUtMDgtMjY7IjA1OjAyOjIyICI7Mjc0Mg=="/>
+        <attribute name="edited" value="ZGllZ287TEFQVE9QLVZBTEw0MEE2OzIwMjUtMDgtMjY7IjA1OjM1OjE3ICI7MTsyODYw"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;NOMBRE DEL ESTUDIANTE&quot;" newline="True"/>
+            <output expression="&quot;SANTIAGO REA&quot;" newline="True"/>
+            <output expression="&quot;NUMERO DE CONTROL&quot;" newline="True"/>
+            <output expression="&quot;25550864&quot;" newline="True"/>
+            <output expression="&quot;EDAD&quot;" newline="True"/>
+            <output expression="&quot;18&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

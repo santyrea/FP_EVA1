@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="practica 5"/>
+        <attribute name="authors" value="diego"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-28 03:45:28 "/>
+        <attribute name="created" value="ZGllZ287TEFQVE9QLVZBTEw0MEE2OzIwMjUtMDgtMjg7IjAzOjM4OjM3ICI7Mjc1Nw=="/>
+        <attribute name="edited" value="ZGllZ287TEFQVE9QLVZBTEw0MEE2OzIwMjUtMDgtMjg7IjAzOjQ1OjI4ICI7MTsyODYz"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nombre" type="String" array="False" size=""/>
+            <assign variable="nombre" expression="&quot;Santiago Rea&quot;"/>
+            <output expression="nombre" newline="True"/>
+            <declare name="edad" type="Integer" array="False" size=""/>
+            <assign variable="edad" expression="18"/>
+            <output expression="edad" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

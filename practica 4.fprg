@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="practica 4"/>
+        <attribute name="authors" value="diego"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-08-28 03:36:38 "/>
+        <attribute name="created" value="ZGllZ287TEFQVE9QLVZBTEw0MEE2OzIwMjUtMDgtMjg7IjAzOjMzOjQzICI7Mjc0OQ=="/>
+        <attribute name="edited" value="ZGllZ287TEFQVE9QLVZBTEw0MEE2OzIwMjUtMDgtMjg7IjAzOjM2OjM4ICI7MTsyODY0"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <output expression="&quot;EMPLEO&quot;" newline="True"/>
+            <output expression="&quot;INGENIERO EN SISTEMAS&quot;" newline="True"/>
+            <output expression="&quot;SALARIO&quot;" newline="True"/>
+            <output expression="&quot;15000&quot;" newline="True"/>
+            <output expression="&quot;HORAS SEMANALES&quot;" newline="True"/>
+            <output expression="&quot;50&quot;" newline="True"/>
+            <output expression="&quot;REQUIERE INGLES&quot;" newline="True"/>
+            <output expression="&quot;SI&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
