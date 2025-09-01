@@ -1,0 +1,27 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ */
+
+/**
+ *
+ * @author diego
+ */
+public class eva1_10_ {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        //CONVERSION DE FAHRENHEIT A CELSIUS
+        //FORMULA: C = (5/9) * (F-32)
+        double celsius, fahrenheit;//variables de tipo double
+        //INICIALIZACION
+        fahrenheit = 77;//valor de ejemplo 
+        celsius = (5.0 / 9.0)* (fahrenheit - 32);
+        System.out.println("Temperatura en fahrenheit:" + fahrenheit + "F");
+        System.out.println("Temperatura en celsius" + celsius + "°C");
+        
+    }
+    
+}
